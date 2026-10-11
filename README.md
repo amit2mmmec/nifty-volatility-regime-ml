@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Nifty 50 ML Volatility Expansion Engine
 
 
@@ -38,3 +39,6 @@ A leakage-free quantitative machine learning pipeline designed to predict intrad
 
 \- Python, Pandas, NumPy, XGBoost, Scikit-Learn
 
+=======
+# nifty-volatility-regime-ml
+>>>>>>> db4a11d203a1b05e5291d84e92fa1a8a1a4cf79b
